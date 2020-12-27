@@ -1,0 +1,67 @@
+
+.board {
+    border-radius: 25px;
+    width: 1500px;
+    background: rgb(231, 231, 231);
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    margin-top: 2%;
+    margin-left:13%;
+    padding: 0;
+    height: 700px;
+}
+
+
+.loseboard {
+    border-radius: 25px;
+    width: 1300px;
+    background-image: url(../imgs/loseboard.png);
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    margin-top: 2%;
+    margin-left:16%;
+    padding: 0;
+    height: 700px;
+}
+
+.winboard {
+    border-radius: 25px;
+    width: 1300px;
+    background-image: url(../imgs/winboard.png);
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    margin-top: 2%;
+    margin-left:16%;
+    padding: 0;
+    height: 700px;
+}
+
+
+@media screen and (max-width: 715px){
+    .board {
+    margin-left: 30px;
+      width: 450px;
+      height: 746px;
+    }
+  }
+
+  @media screen and (max-width: 715px){
+    .winboard {
+    margin-left: 30px;
+      width: 450px;
+      height: 746px;
+      background-image: url(../imgs/winboardmobile.png)
+    }
+  }
+
+  @media screen and (max-width: 715px){
+    .loseboard {
+    margin-left: 30px;
+      width: 450px;
+      height: 746px;
+      background-image: url(../imgs/loseboardmobile.png)
+    }
+  }
