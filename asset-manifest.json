@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/praxmusic.github.io-react-card-game/static/css/main.9f3d5d6c.chunk.css",
+    "main.js": "/praxmusic.github.io-react-card-game/static/js/main.665410e8.chunk.js",
+    "main.js.map": "/praxmusic.github.io-react-card-game/static/js/main.665410e8.chunk.js.map",
+    "runtime-main.js": "/praxmusic.github.io-react-card-game/static/js/runtime-main.75d78b08.js",
+    "runtime-main.js.map": "/praxmusic.github.io-react-card-game/static/js/runtime-main.75d78b08.js.map",
+    "static/js/2.ff56fad1.chunk.js": "/praxmusic.github.io-react-card-game/static/js/2.ff56fad1.chunk.js",
+    "static/js/2.ff56fad1.chunk.js.map": "/praxmusic.github.io-react-card-game/static/js/2.ff56fad1.chunk.js.map",
+    "static/js/3.2e8215ae.chunk.js": "/praxmusic.github.io-react-card-game/static/js/3.2e8215ae.chunk.js",
+    "static/js/3.2e8215ae.chunk.js.map": "/praxmusic.github.io-react-card-game/static/js/3.2e8215ae.chunk.js.map",
+    "index.html": "/praxmusic.github.io-react-card-game/index.html",
+    "static/css/main.9f3d5d6c.chunk.css.map": "/praxmusic.github.io-react-card-game/static/css/main.9f3d5d6c.chunk.css.map",
+    "static/js/2.ff56fad1.chunk.js.LICENSE.txt": "/praxmusic.github.io-react-card-game/static/js/2.ff56fad1.chunk.js.LICENSE.txt",
+    "static/media/Board.css": "/praxmusic.github.io-react-card-game/static/media/winboardmobile.bb4af2ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75d78b08.js",
+    "static/js/2.ff56fad1.chunk.js",
+    "static/css/main.9f3d5d6c.chunk.css",
+    "static/js/main.665410e8.chunk.js"
+  ]
+}
