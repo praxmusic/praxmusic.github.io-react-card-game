@@ -40,28 +40,28 @@
 }
 
 
-@media screen and (max-width: 715px){
+@media screen and (max-width: 768px){
     .board {
-    margin-left: 30px;
-      width: 450px;
-      height: 746px;
+    margin-left: 0px;
+      width: 350px;
+      height: 555px;
     }
   }
 
   @media screen and (max-width: 715px){
     .winboard {
-    margin-left: 30px;
-      width: 450px;
-      height: 746px;
+    margin-left: 0px;
+    width: 300px;
+    height: 555px;
       background-image: url(../imgs/winboardmobile.png)
     }
   }
 
   @media screen and (max-width: 715px){
     .loseboard {
-    margin-left: 30px;
-      width: 450px;
-      height: 746px;
+    margin-left: 0px;
+    width: 300px;
+    height: 555px;
       background-image: url(../imgs/loseboardmobile.png)
     }
   }
