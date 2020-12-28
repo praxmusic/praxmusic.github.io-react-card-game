@@ -50,8 +50,8 @@
 
   @media screen and (max-width: 715px){
     .winboard {
-    margin-left: 0px;
-    width: 300px;
+    margin-left: 15px;
+    width: 350px;
     height: 555px;
       background-image: url(../imgs/winboardmobile.png)
     }
@@ -59,9 +59,9 @@
 
   @media screen and (max-width: 715px){
     .loseboard {
-    margin-left: 0px;
-    width: 300px;
-    height: 555px;
+      margin-left: 15px;
+      width: 350px;
+      height: 555px;
       background-image: url(../imgs/loseboardmobile.png)
     }
   }
